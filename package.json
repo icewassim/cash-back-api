@@ -1,0 +1,12 @@
+{
+  "name": "cashBackAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "solc": "^0.8.10",
+    "web3": "^1.6.1"
+  }
+}
